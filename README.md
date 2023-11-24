@@ -1,2 +1,2 @@
 # personal-ai-assistant
-My first repository
+My first repository. Author-Ankita Sen
