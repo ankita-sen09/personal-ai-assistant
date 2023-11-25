@@ -6,7 +6,7 @@ import datetime
 
 r = sr.Recognizer()
 email = "senankita408@gmail.com"
-
+#speak
 def speak(command):
     engine = pyttsx3.init()
     voices = engine.getProperty("voices")
